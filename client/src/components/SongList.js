@@ -16,7 +16,7 @@ class SongList extends React.Component {
               </div>
               <span className="song-list__release">{song.releaseDate}</span>
               <Link to={`/${song.id}/lyrics`}>
-                <button className="song-list__show-lyrics">Show Lyrics</button>
+                <button className="song-list__show-lyrics">WHAT THE FUCK IS THIS SHIT</button>
               </Link>
             </li>
           );
